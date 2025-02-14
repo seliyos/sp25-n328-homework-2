@@ -1,0 +1,22 @@
+{
+  "name": "sp25-create-homework-2",
+  "version": "1.0.0",
+  "bin": {
+    "create-selam-homework2": "./index.js"
+  },
+  "files": [
+    "index.js",
+    "lib/",
+    "readme.md"
+  ],
+
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "set TEST=1 && node ./"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
